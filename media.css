@@ -10,6 +10,7 @@
     #projects {
       height: fit-content;
     }
+
   }
   
   @media screen and (max-width: 1200px) {
@@ -44,6 +45,14 @@
     }
     .about-containers {
       margin-top: 0;
+    }
+    .picpic{
+      height: 310px;
+      width: 410px;
+    }
+
+    .section__pic-container {
+      padding-right: 46px;
     }
   }
   
@@ -100,4 +109,15 @@
     .text-container {
       text-align: justify;
     }
+    
+    .picpic{
+      height:300px;
+      width: 340px;
+      
+    }
+
+    .section__pic-container {
+      padding-right: 2px;
+    }
+    
   }
