@@ -115,9 +115,17 @@
       width: 340px;
       
     }
+    
 
     .section__pic-container {
-      padding-right: 2px;
+      padding-right: 1px;
+    }
+
+    .section__text{
+      padding-top: 90px;
     }
     
   }
+
+  
+  
